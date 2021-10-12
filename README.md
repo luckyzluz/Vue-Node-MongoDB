@@ -1,4 +1,5 @@
 # Vue-Node-MongoDB
+<<<<<<< HEAD
 ## [Vue-Node-MongoDB](https://blog.z-luz.online/)
 
 ## 特色
@@ -42,11 +43,43 @@
   3. Mongoose
     4. ...
 
-> 由于仍处于快速迭代期,HPP尚未使用NPM发包,请使用Jsdelivr+Github访问静态资源
+> 由于仍处于快速迭代期,尚未使用NPM发包,请使用Jsdelivr+Github访问静态资源
 
 [![img](https://camo.githubusercontent.com/08d8c5b85bb783b7686a17ba066ceb645267c8c4c8c6a09d35332b10a26960e1/68747470733a2f2f7374617263686172742e63632f4865786f506c7573506c75732f4865786f506c7573506c75732e737667)](https://camo.githubusercontent.com/08d8c5b85bb783b7686a17ba066ceb645267c8c4c8c6a09d35332b10a26960e1/68747470733a2f2f7374617263686172742e63632f4865786f506c7573506c75732f4865786f506c7573506c75732e737667)
 
 # 对于开发者来说
+=======
+# blog
+
+[Vue-Node-MongoDB](https://blog.z-luz.online/)
+
+## ENV
+1. Node.js v6.9.4
+2. MongoDB v3.4.1
+3. Vue.js v2.2.1
+
+## 实现的功能
+1. 文章的编辑，修改，删除
+2. 支持使用 `Markdown` 编辑与实时预览
+3. 支持代码高亮
+4. 给文章添加标签
+5. 支持用户注册登录
+
+## 使用到的技术
+### 前端
+1. Vue.js
+2. vue-cli
+3. vue-router
+4. vue-resource
+5. element-ui
+6. marked
+7. highlight.js
+
+### 后端
+1. Node.js
+2. Express
+3. Mongoose
+>>>>>>> a37d5d7730ca09bf0c288c48bdb6e4d4683d490e
 
 ## 项目目录
 
@@ -75,7 +108,10 @@
 ```
 
 ## How to start
+<<<<<<< HEAD
 
+=======
+>>>>>>> a37d5d7730ca09bf0c288c48bdb6e4d4683d490e
 ``` bash
 # clone projext
 git clone https://github.com/luckyzluz/Vue-Node-MongoDB.git
@@ -97,6 +133,7 @@ node server.js
 yarn start
 ```
 
+<<<<<<< HEAD
 # 贡献名单
 
 | [<img src="https://cdn.jsdelivr.net/gh/luckyzluz/zblogBasics/images/18961078021305972.jpg" alt="img" style="zoom:150%;" />](https://cdn.jsdelivr.net/gh/luckyzluz/zblogBasics/images/18961078021305972.jpg) LuckyZluz |
@@ -107,3 +144,8 @@ yarn start
 
 使用严格的GPL开源许可，所有改版的程序若公布，则必须使用GPL协议并开源。
 
+=======
+## 截图
+
+首页
+>>>>>>> a37d5d7730ca09bf0c288c48bdb6e4d4683d490e
