@@ -1,5 +1,4 @@
 # Vue-Node-MongoDB
-<<<<<<< HEAD
 ## [Vue-Node-MongoDB](https://blog.z-luz.online/)
 
 ## 特色
@@ -23,7 +22,7 @@
 
 # 依赖
 
-项目的诞生离不开以下项目的支持：
+项目的诞生离不开以下的支持：
 
  ### 前端
 
@@ -34,53 +33,20 @@
   5. element-ui
   6. marked
   7. highlight.js
-    8. ...
+  8. ...
 
   ### 后端
 
   1. Node.js
   2. Express
   3. Mongoose
-    4. ...
+  4. ...
 
 > 由于仍处于快速迭代期,尚未使用NPM发包,请使用Jsdelivr+Github访问静态资源
 
 [![img](https://camo.githubusercontent.com/08d8c5b85bb783b7686a17ba066ceb645267c8c4c8c6a09d35332b10a26960e1/68747470733a2f2f7374617263686172742e63632f4865786f506c7573506c75732f4865786f506c7573506c75732e737667)](https://camo.githubusercontent.com/08d8c5b85bb783b7686a17ba066ceb645267c8c4c8c6a09d35332b10a26960e1/68747470733a2f2f7374617263686172742e63632f4865786f506c7573506c75732f4865786f506c7573506c75732e737667)
 
 # 对于开发者来说
-=======
-# blog
-
-[Vue-Node-MongoDB](https://blog.z-luz.online/)
-
-## ENV
-1. Node.js v6.9.4
-2. MongoDB v3.4.1
-3. Vue.js v2.2.1
-
-## 实现的功能
-1. 文章的编辑，修改，删除
-2. 支持使用 `Markdown` 编辑与实时预览
-3. 支持代码高亮
-4. 给文章添加标签
-5. 支持用户注册登录
-
-## 使用到的技术
-### 前端
-1. Vue.js
-2. vue-cli
-3. vue-router
-4. vue-resource
-5. element-ui
-6. marked
-7. highlight.js
-
-### 后端
-1. Node.js
-2. Express
-3. Mongoose
->>>>>>> a37d5d7730ca09bf0c288c48bdb6e4d4683d490e
-
 ## 项目目录
 
 ```
@@ -108,10 +74,6 @@
 ```
 
 ## How to start
-<<<<<<< HEAD
-
-=======
->>>>>>> a37d5d7730ca09bf0c288c48bdb6e4d4683d490e
 ``` bash
 # clone projext
 git clone https://github.com/luckyzluz/Vue-Node-MongoDB.git
@@ -133,19 +95,16 @@ node server.js
 yarn start
 ```
 
-<<<<<<< HEAD
 # 贡献名单
 
-| [<img src="https://cdn.jsdelivr.net/gh/luckyzluz/zblogBasics/images/18961078021305972.jpg" alt="img" style="zoom:150%;" />](https://cdn.jsdelivr.net/gh/luckyzluz/zblogBasics/images/18961078021305972.jpg) LuckyZluz |
-| :----------------------------------------------------------: |
-| [![img](https://camo.githubusercontent.com/66d0b2f43e2d2cec34889e0f1f62525f9827827779a132cae2753dc9ac3fbc94/68747470733a2f2f736869656c64732e696f2f62616467652f436f64696e672d677265656e3f6c6f676f3d76697375616c2d73747564696f2d636f6465267374796c653d666f722d7468652d6261646765)](https://github.com/luckyzluz/Vue-Node-MongoDB/issues) [![img](https://camo.githubusercontent.com/e4f4c7049f9d729554ff1ad6c488336b1e4403c3eab51649e290b34c6d60eab6/68747470733a2f2f736869656c64732e696f2f62616467652f4275675465737465722d79656c6c6f773f6c6f676f3d6f70656e2d6275672d626f756e7479267374796c653d666f722d7468652d6261646765)](https://github.com/luckyzluz/Vue-Node-MongoDB/issues) |
+| [![img](https://cdn.jsdelivr.net/gh/luckyzluz/zblogBasics/images/18961078021305972.jpg)](https://cdn.jsdelivr.net/gh/luckyzluz/zblogBasics/images/18961078021305972.jpg) LuckyZluz | [![img](https://cdn.jsdelivr.net/gh/luckyzluz/zblogBasics/images/53730587.png)](https://cdn.jsdelivr.net/gh/luckyzluz/zblogBasics/images/53730587.png) Temporarily vacant |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![img](https://camo.githubusercontent.com/66d0b2f43e2d2cec34889e0f1f62525f9827827779a132cae2753dc9ac3fbc94/68747470733a2f2f736869656c64732e696f2f62616467652f436f64696e672d677265656e3f6c6f676f3d76697375616c2d73747564696f2d636f6465267374796c653d666f722d7468652d6261646765)](https://camo.githubusercontent.com/66d0b2f43e2d2cec34889e0f1f62525f9827827779a132cae2753dc9ac3fbc94/68747470733a2f2f736869656c64732e696f2f62616467652f436f64696e672d677265656e3f6c6f676f3d76697375616c2d73747564696f2d636f6465267374796c653d666f722d7468652d6261646765) [![img](https://camo.githubusercontent.com/e4f4c7049f9d729554ff1ad6c488336b1e4403c3eab51649e290b34c6d60eab6/68747470733a2f2f736869656c64732e696f2f62616467652f4275675465737465722d79656c6c6f773f6c6f676f3d6f70656e2d6275672d626f756e7479267374796c653d666f722d7468652d6261646765)](https://github.com/luckyzluz/Vue-Node-MongoDB/issues) | [![img](https://camo.githubusercontent.com/e4f4c7049f9d729554ff1ad6c488336b1e4403c3eab51649e290b34c6d60eab6/68747470733a2f2f736869656c64732e696f2f62616467652f4275675465737465722d79656c6c6f773f6c6f676f3d6f70656e2d6275672d626f756e7479267374796c653d666f722d7468652d6261646765)](https://cdn.jsdelivr.net/gh/luckyzluz/zblogBasics/images/53730587.png) [![img](https://camo.githubusercontent.com/51e316105861743b6c002b2a3ec04266c4da12718f54f93cc646f05fc02389bf/68747470733a2f2f736869656c64732e696f2f62616467652f435353436f6465722d6f72616e67653f6c6f676f3d63737333267374796c653d666f722d7468652d6261646765)](https://cdn.jsdelivr.net/gh/luckyzluz/zblogBasics/images/53730587.png) |
 
 # 许可
 
 使用严格的GPL开源许可，所有改版的程序若公布，则必须使用GPL协议并开源。
 
-=======
 ## 截图
 
 首页
->>>>>>> a37d5d7730ca09bf0c288c48bdb6e4d4683d490e
